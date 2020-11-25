@@ -33,11 +33,11 @@ output:
 # Archaeology
 
 .pull-left[
-![railbaltic](pildid/leiud_k2es_2.JPG)
+![leiud](pildid/leiud_k2es_2.JPG)
 ]
 
 .pull-right[
-![railbaltic](pildid/leiud_k2es.JPG)
+![leiud2](pildid/leiud_k2es.JPG)
 ]
 ---
 
